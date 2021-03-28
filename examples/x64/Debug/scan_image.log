@@ -1,0 +1,8 @@
+﻿  scan_image.cpp
+C:\Users\jvall\Indeep_projects\ImageMagick-Windows\ImageMagick\Magick++\lib\Magick++\Exception.h(23,3): error C2220: the following warning is treated as an error
+C:\Users\jvall\Indeep_projects\ImageMagick-Windows\ImageMagick\Magick++\lib\Magick++\Exception.h(23,3): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_exception.h(48): message : see declaration of 'std::exception'
+C:\Users\jvall\Indeep_projects\ImageMagick-Windows\ImageMagick\Magick++\lib\Magick++\Exception.h(22): message : see declaration of 'Magick::Exception'
+C:\Users\jvall\Indeep_projects\ZBarWin64\include\zbar\Image.h(317,41): warning C4100: 'img': unreferenced formal parameter
+C:\Users\jvall\Indeep_projects\ZBarWin64\examples\scan_image.cpp(28,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jvall\Indeep_projects\ZBarWin64\examples\scan_image.cpp(29,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data

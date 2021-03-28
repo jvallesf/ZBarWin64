@@ -1,0 +1,2 @@
+C:\Users\jvall\Indeep_projects\ZBarWin64\Debug\libzbar-0.dll
+C:\Users\jvall\Indeep_projects\ZBarWin64\Debug\libzbar-0.pdb

@@ -1,0 +1,268 @@
+﻿  config.c
+  convert.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(675,27): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(792,50): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(795,31): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(1095,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(1112,18): warning C4101: 'dsts': unreferenced local variable
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(1111,18): warning C4101: 'srcs': unreferenced local variable
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(1109,13): warning C4101: 'errdst': unreferenced local variable
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\convert.c(1115,18): warning C4101: 'fmt': unreferenced local variable
+  decoder.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder.c(519,33): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder.c(528,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder.c(526,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder.c(529,14): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  code128.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(230,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(230,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(339,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(362,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(412,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code128.c(525,1): warning C4018: '>': signed/unsigned mismatch
+  code39.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code39.c(235,1): warning C4018: '<': signed/unsigned mismatch
+  ean.c
+  i25.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\i25.c(190,1): warning C4018: '<': signed/unsigned mismatch
+  pdf417.c
+  qr_finder.c
+  error.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(129,11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(137,32): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(139,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(143,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(147,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(171,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.c(178,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  image.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\image.c(249,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\image.c(251,13): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\image.c(254,7): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\image.c(262,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  img_scanner.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(153,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(251,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(700,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(703,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(710,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(716,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(727,18): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(756,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(759,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(764,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(770,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\img_scanner.c(781,18): warning C4018: '>=': signed/unsigned mismatch
+  processor.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  bch15_5.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(48,49): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(51,49): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(125,18): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(125,38): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(125,58): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(126,15): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\bch15_5.c(126,35): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  binarize.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\binarize.c(540,58): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\binarize.c(541,59): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\binarize.c(548,33): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\binarize.c(562,33): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\binarize.c(571,50): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  isaac.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(29,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(30,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(33,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(34,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(37,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(38,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(41,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(42,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(47,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(48,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(51,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(52,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(55,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(56,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(59,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\isaac.c(60,31): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  qrdec.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(159,57): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(201,25): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(280,69): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(281,51): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(537,10): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(540,27): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(541,29): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(544,29): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(545,27): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(583,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(587,36): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(588,36): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(670,35): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(672,35): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(678,63): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(678,75): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(680,63): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(680,75): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(744,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(745,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(747,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(748,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(750,29): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(751,29): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(752,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(752,59): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(765,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(766,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(767,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(768,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(770,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(772,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(774,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(790,32): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(790,44): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(868,49): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1090,71): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1223,23): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1223,43): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1279,42): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1280,42): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1299,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1300,19): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1606,7): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1607,7): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1608,7): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1609,7): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1621,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1623,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1624,36): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1643,28): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1644,28): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1774,79): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1775,79): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1776,79): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1848,74): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1850,74): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1852,78): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(1854,78): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2040,43): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2041,43): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2070,15): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2071,15): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2073,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2074,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2075,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2076,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2090,24): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2092,39): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2117,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2118,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2119,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2120,46): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2135,39): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2136,24): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2171,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2173,41): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2174,42): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2183,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2185,41): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2186,42): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2195,43): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2197,44): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2552,44): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2563,62): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2620,38): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2751,1): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2753,1): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2836,44): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2882,51): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2895,43): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2911,48): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2927,48): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2943,48): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(2960,44): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3035,44): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3162,25): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3165,40): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3173,37): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3492,50): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3585,42): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdec.c(3620,46): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  qrdectxt.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdectxt.c(395,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdectxt.c(405,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\qrdectxt.c(343,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rs.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(37,23): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(67,38): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(67,42): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(199,29): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(199,33): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\rs.c(533,58): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  util.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(22,23): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(64,11): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(65,12): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(71,13): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(73,16): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(76,27): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\qrcode\util.c(78,35): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+  Compiling...
+  refcnt.c
+  scanner.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\scanner.c(255,26): warning C4018: '<=': signed/unsigned mismatch
+  symbol.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(286,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(290,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(318,1): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(323,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(326,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(329,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(334,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(337,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(340,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(344,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(346,5): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(348,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(349,5): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(356,9): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(359,5): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(361,5): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(318,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(326,17): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(337,17): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(344,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\symbol.c(348,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  codabar.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\codabar.c(399,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\codabar.c(401,15): warning C4018: '>': signed/unsigned mismatch
+  code93.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code93.c(200,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\code93.c(201,22): warning C4018: '>': signed/unsigned mismatch
+  databar.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(425,1): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(540,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(577,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(585,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(618,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(631,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(747,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(795,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(1093,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\decoder\databar.c(1132,34): warning C4018: '>=': signed/unsigned mismatch
+  lock.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  win.c
+C:\Users\jvall\Indeep_projects\ZBarWin64\zbar\error.h(180,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  Generating Code...
+     Creating library C:\Users\jvall\Indeep_projects\ZBarWin64\Debug\libzbar-0.lib and object C:\Users\jvall\Indeep_projects\ZBarWin64\Debug\libzbar-0.exp
+  zbar64.vcxproj -> C:\Users\jvall\Indeep_projects\ZBarWin64\Debug\libzbar-0.dll

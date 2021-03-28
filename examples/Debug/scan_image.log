@@ -1,0 +1,2 @@
+﻿  scan_image.cpp
+C:\Users\jvall\Indeep_projects\ImageMagick-Windows\ImageMagick\Magick++\lib\Magick++\Include.h(14,14): fatal error C1083: Cannot open include file: 'MagickCore/magick-config.h': No such file or directory
